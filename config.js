@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/klis_jbff'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/LJT98oXIdfR0Alkdvuawmk' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
+global.pdana = '085896661014' //dana
 global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
+global.pgopay = '085838571629' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.ppulsa = '085838571629' //Indosat
+global.ppulsa2 = '085768734014' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6288272153157'
+global.nomorown = '6285896661014'
+global.namebot = 'TYS-KLIZZ-BOT-V1'
+global.nameown = 'KLIZZ GNTNG'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
