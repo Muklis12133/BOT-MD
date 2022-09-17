@@ -59,7 +59,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6285896661014', 'KLISS GNTNG', true],
-  ['-', 'isi_kalau_ada', true],
+  ['62881023079914', 'HENDRI GNTNG', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
