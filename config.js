@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085896661014' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '085838571629' //gopay
+global.pdana = '087824888163' //dana
+global.povo = '087824888163' //ovo
+global.pgopay = '087824888163' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '085838571629' //Indosat
-global.ppulsa2 = '085768734014' // kalau ada kartu lain isi aja
+global.ppulsa = '087824888163' //XL
+global.ppulsa2 = '087824888163' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288272153157'
-global.nomorown = '6285896661014'
-global.namebot = 'TYS-KLIZZ-BOT-V1'
-global.nameown = 'KLIZZ GNTNG'
+global.nomorbot = '6287824888163'
+global.nomorown = '6287824888163'
+global.namebot = 'ANGGA-OFFICIAL'
+global.nameown = 'ANGGA GNTNG'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285896661014', 'KLISS GNTNG', true],
-  ['62881023079914', 'HENDRI GNTNG', true],
+  ['6287824888163', 'ANGGA GNTNG', true],
+  ['6287824888163', 'ANGGA GNTNG', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 WH-ANGGA-BOT-V1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-ANGGA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ WH-ANGGA-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By WH-ANGGA-DEV`
+global.author = '                「 WH-ANGGA-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
