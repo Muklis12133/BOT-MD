@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "wa-klis-tys",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Klis",
     "main": "index.js",
     "type": "module",
     "directories": {
