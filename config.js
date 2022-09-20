@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/klis_jbff'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/LJT98oXIdfR0Alkdvuawmk' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCWUQQiIXZlni9OF-kXtbNlA' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCkZLb5xzRxdweFWYCGx9XEw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '083149798467' //dana
-global.povo = '083149798467' //ovo
-global.pgopay = '083149798467' //gopay
-global.plinkaja = '083149798467' //link aja
-global.ppulsa = '083149798467' //Axis
-global.ppulsa2 = '083149798467' // kalau ada kartu lain isi aja
+global.pdana = '085896661014' //dana
+global.povo = '08XXXXXXXXXX' //ovo
+global.pgopay = '085838571629' //gopay
+global.plinkaja = '08XXXXXXXXXX' //link aja
+global.ppulsa = '085838571629' //Indosat
+global.ppulsa2 = '085768734014' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '623834122650'
-global.nomorown = '6283149798467'
-global.namebot = 'XOcistGans-BOT'
-global.nameown = 'XOrcistGans'
+global.nomorbot = '6285838571629'
+global.nomorown = '6285896661014'
+global.namebot = 'Klizz-Tys-BOT'
+global.nameown = 'KlissGanss'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283149798467', 'XOrcistGana', true],
-  ['6283149798467', 'XOrcistGans-BOT', true],
-  ['6283149798467', 'XOrcistGans-BOT-V2', true],
-  ['79917357842', 'XOrcistGans-BOT-V3', true] //Ganti jd nomormu sama Namamu
+  ['6285896661014', 'Kliss-Tys', true],
+  ['6285896661014', 'Kliss-Tys', true],
+  ['6285896661014', 'Kliss-Tys', true],
+  ['6285896661014', 'Kliss-Tys', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 XOrcisyGans-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘XOrcisGans-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ XOrcistGans-BOT '
+global.wm = '                「 KlissGans-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KlissGans-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ KlissGans-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By XORCISTGANS`
-global.author = '                「 XOrcistGans-BOT- あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By KLISSGANS`
+global.author = '                「 KlissGanss-BOT- あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XOrcistGans-BOT'
-global.stickauth = `By © XOrcistGans`
+global.stickpack = 'KlissGanss-BOT'
+global.stickauth = `By © KlissGanss`
 
 global.multiplier = 38 // The higher, The harder levelup
 
